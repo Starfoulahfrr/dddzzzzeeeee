@@ -1,0 +1,76 @@
+{
+    "stats": {
+        "total_views": 463,
+        "category_views": {
+            "CALI 🇺🇸": 108,
+            "CALI UNBRAND 🇺🇲🇪🇸": 61,
+            "HASH DRY 🍫✨️": 70,
+            "HASH 🍫": 60,
+            "WEED 🍃": 54
+        },
+        "product_views": {
+            "CALI 🇺🇸": {
+                "Doja - Gelonade": 57,
+                "The Ten Co- Sour Shizu": 65,
+                "Doja - Gelonade 🍋": 46,
+                "The Ten Co - Sour Shizu 🍡": 34
+            },
+            "CALI UNBRAND 🇺🇲🇪🇸": {
+                "God Bud": 57
+            },
+            "HASH DRY 🍫✨️": {
+                "Vvs Frozen": 49,
+                "Vvs FrozenSift 💎🧊": 24
+            },
+            "HASH 🍫": {
+                "Rasta Monkey 🐵": 55,
+                "Test": 9
+            },
+            "WEED 🍃": {
+                "Jungle Haze 🌿": 50
+            }
+        },
+        "last_updated": "10:47:31",
+        "last_reset": "2025-02-08"
+    },
+    "CALI 🇺🇸": [
+        {
+            "name": "Doja - Gelonade 🍋",
+            "price": "Bag: 90€",
+            "description": "Top Cali USA ! CaliFarm Officiel !"
+        },
+        {
+            "name": "The Ten Co - Sour Shizu 🍡",
+            "price": "Bag: 90€",
+            "description": "Top Cali Usa ! CaliFarm Officiel !"
+        }
+    ],
+    "CALI UNBRAND 🇺🇲🇪🇸": [
+        {
+            "name": "God Bud",
+            "price": "3.5g: 50€ (plus que 1 seul)",
+            "description": "Top Cali Unbrand !"
+        }
+    ],
+    "WEED 🍃": [
+        {
+            "name": "Jungle Haze 🌿",
+            "price": "5g: 40€\n10g: 80€\n25g: 180€\nPour plus contact 📱",
+            "description": "Gamme de Haze TOP Qualité + !"
+        }
+    ],
+    "HASH DRY 🍫✨️": [
+        {
+            "name": "Vvs FrozenSift 💎🧊",
+            "price": "€",
+            "description": "Bientot Disponible Curing en cours !"
+        }
+    ],
+    "HASH 🍫": [
+        {
+            "name": "Rasta Monkey 🐵",
+            "price": "En dessous de 10g = 5€/G\n10g: 40€\n25g: 90€\nPas plus pour le moment !",
+            "description": "Top Mousseux !"
+        }
+    ]
+}
